@@ -1,5 +1,7 @@
 # CHINESE CHECKERS
 
+Requires Node v12.22.12
+
 install:
 ```
 npm install
